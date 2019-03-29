@@ -187,7 +187,7 @@ class Ui_MainWindow(object):
             background-color: %s;
             border-radius: 3px;
             border: 1px solid block;
-        }''' % ('#F50000' if player == 0 else '#3A5FCD0'))  
+        }''' % ('#F50000' if player == 0 else '#3A5FCD'))  
     
 import sys
 
